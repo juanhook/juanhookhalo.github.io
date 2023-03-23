@@ -1,0 +1,72 @@
+body {
+    background-image:url(https://w0.peakpx.com/wallpaper/771/407/HD-wallpaper-halo-reach-key-art-8k.jpg);
+    font-family: sans-serif;
+    -ms-flex-item-align: center;
+}
+
+#nobleimg {
+  opacity: unset;
+  
+  
+}
+
+.nav {
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    list-style-type: none;
+    background-color: #949494;
+    padding: 15px;
+    justify-content: center;
+  }
+
+  .nav li {
+    display: inline-block;
+  }
+
+  .nav a {
+    color: #ebebeb;
+    padding: 20px;
+    text-decoration: whitesmoke;
+  }
+
+  .nav a:hover {
+    background-color: #696969;
+  }
+
+h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+#container {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #7a7a7a; 
+    opacity: calc(85%) ;
+    padding: 25px;
+    text-align: center;
+}
+
+#title {
+    text-align: center;
+    padding: 10px;
+    background-color: #4d4d4d;
+    color: #ffffff;opacity:(100%);
+}
+
+#Carterp {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: oblique;
+
+}
+ 
+#nobleimg {
+  opacity:calc(none) ;
+  
+  
+}
